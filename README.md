@@ -2,7 +2,7 @@
 
 ### Hello guys I am V39 Pygamer and I have created my first project using Pygame, a module in Python. You might never know that it is very easy to create a game in Python if you know the basics of the language. This is made by looking at a youtube video and was very helpful in teaching the basics of Pygame.
 
-![image](C:\Users\vishwasvr\PycharmProject\space_invaders_screenshot)
+
 
 
 **Note:- This is very similar to the project in the video and since I have just started to learn I had to make it like that but do not worry I have many ideas coming in my mind and sure will make a project of my own nextime.** 
