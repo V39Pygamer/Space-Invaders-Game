@@ -5,7 +5,7 @@
 
 
 
-**Note:- This is very similar to the project in the video and since I have just started to learn I had to make it like that but do not worry I have many ideas coming in my mind and sure will make a project of my own nextime.** 
+
 
 
 ### If you want to check out the video which I saw to make the game click  [here](https://www.youtube.com/watch?v=FfWpgLFMI7w).
